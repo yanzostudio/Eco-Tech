@@ -1,8 +1,8 @@
 # EcoTech-Sustainability-Management-System
-Made By
-MUHAMMAD SUFFIAN BIN ABU BAKAR (2024927475)
-MUHAMMAD AMIRUL BIN ROSLI (2024542497)
-MUHAMAD AFIF BIN MAHAMAD ANUAR (2024917561)
+*Made By
+1. MUHAMMAD SUFFIAN BIN ABU BAKAR (2024927475)
+2. MUHAMMAD AMIRUL BIN ROSLI (2024542497)
+3. MUHAMAD AFIF BIN MAHAMAD ANUAR (2024917561)*
 
 The EcoTech-Sustainability-Management-System is designed to manage sustainability data for projects and resources. It allows users to keep track of project records and resource usage, while admins can manage projects, resources, and users.
 
@@ -29,10 +29,10 @@ The EcoTech-Sustainability-Management-System is designed to manage sustainabilit
 - Choose New Connection and select Apache Derby as the database.
 - Connect to the extracted Derby database by selecting the directory where you extracted the ZIP file.
 
-#Database Configuration:
+# Database Configuration:
 -Ensure that the database connection is properly configured, and you should be able to access and interact with the database through the application.
 
-#Installation
+# Installation
 1. Clone the repository: 
 Open a terminal/command prompt and run:
 - bash
