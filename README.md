@@ -1,8 +1,8 @@
 # EcoTech-Sustainability-Management-System
-*Made By
+*Made By*
 1. MUHAMMAD SUFFIAN BIN ABU BAKAR (2024927475)
 2. MUHAMMAD AMIRUL BIN ROSLI (2024542497)
-3. MUHAMAD AFIF BIN MAHAMAD ANUAR (2024917561)*
+3. MUHAMAD AFIF BIN MAHAMAD ANUAR (2024917561)
 
 The EcoTech-Sustainability-Management-System is designed to manage sustainability data for projects and resources. It allows users to keep track of project records and resource usage, while admins can manage projects, resources, and users.
 
@@ -47,12 +47,12 @@ Open a terminal/command prompt and run:
 
 # Requirement
 Once the project is imported, build and run the project in NetBeans to start using the application.
-Technologies Used
-Java (Java EE 7)
-Apache Derby (Database)
-NetBeans (IDE)
-GlassFish (Server)
+- Technologies Used
+1. Java (Java EE 7)
+2. Apache Derby (Database)
+3. NetBeans (IDE)
+4. GlassFish (Server)
 
-#Contributing
+# Contributing
 Feel free to fork the repository, make changes, and submit pull requests. Contributions to enhance features, fix bugs, or improve documentation are welcome!
 
