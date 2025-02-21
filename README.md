@@ -41,11 +41,11 @@ Open a terminal/command prompt and run:
 - git clone https://github.com/yanzostudio/Eco-Tech.git
 - Import the project into NetBeans:
 
-Open NetBeans and choose Open Project.
-Navigate to the folder where you cloned the repository and select the project.
-Build and Run the Project:
+2. Open NetBeans and choose Open Project.
+3. Navigate to the folder where you cloned the repository and select the project.
+4. Build and Run the Project:
 
-#Requirement
+# Requirement
 Once the project is imported, build and run the project in NetBeans to start using the application.
 Technologies Used
 Java (Java EE 7)
